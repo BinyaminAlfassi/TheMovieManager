@@ -10,7 +10,7 @@ https://www.themoviedb.org
 # Installation
 1) _Clone_ the GitHub repository
 
-`$ git clone https://github.com/BinyaminAlfassi/Randog.git`
+`$ git clone https://github.com/BinyaminAlfassi/TheMovieManager.git`
 
 2) Open project using _XCode_
 
